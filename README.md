@@ -1,5 +1,5 @@
-# Send simulated data to device via MQTT
-# A sample Nodejs application to create a data payload to IOT 4.0 service
+
+# A sample Nodejs application to send a data payload to IOT 4.0 service
 
 
 
