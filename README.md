@@ -3,7 +3,7 @@
 
 
 
-## Step 1: Clone the Sample Node.js Project
+# Step 1: Clone the Sample Node.js Project
 
 For this demo, you'll need to have installed Node.js on your machine. Clone the sample Node.js project from this GitHub repository and save the directory on your own PC
 
